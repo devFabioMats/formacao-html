@@ -1,24 +1,17 @@
 <!--START_SECTION:header-->
 <div align="center">
   <p align="center">
-    <img 
-       width="150" height="150" src="https://img.icons8.com/fluency/240/javascript.png" alt="javascript"
-    />
-    <h1>Formação: JavaScript Developer</h1>
+    <img height="150" width="150" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" />
+    <h1>Formação: HTML5</h1>
   </p>
 </div>
 <!--END_SECTION:header-->
 
 ### 📝 **Sobre o curso:**
-- Curso de JavaScript oferecido pela plataforma [DIO](https://web.dio.me/home)
-- Esta formação oferece uma experiência educacional completa de JavaScript na Web, com ênfase no consumo de APIs, convenções e boas práticas
-- Ministrado pelo grande: [Venilton Falvo Jr.](https://github.com/falvojr) (falvojr)
+- Curso de HTML oferecido pela plataforma [DIO](https://web.dio.me/home)
+- Entender como trabalhar com HTML, a base para criar as primeiras páginas WEB! Aprender na prática a como estruturar a marcação da sua página e como funciona cada tag, conhecer os elementos semânticos e outras boas práticas na hora de construir sua primeira página.
+- Ministrado por: [Diogo Mainardes](https://linedin.cm/in/diomainardes) 
 
 ### ℹ️ **Sobre o repositório:**
 - ⚠️ Repositório criado exclusivamente para armazenar o conteúdo aprendido durante o curso
 
-<br>
-
-"O aprendiz é o mestre em formação." 
-
-_Fernanda Simões Rodrigues_
