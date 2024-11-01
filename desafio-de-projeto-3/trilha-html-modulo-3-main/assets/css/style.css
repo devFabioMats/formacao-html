@@ -21,6 +21,7 @@ a { color:blue; text-decoration: none;}
     grid-template-columns: minmax(0,15rem) minmax(0,2.5fr) minmax(0,15rem);
     padding-left: 1rem;
     padding-right: 1rem;
+    text-align: justify;
 }
 .footer {
     min-height: 100px;
